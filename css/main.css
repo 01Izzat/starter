@@ -313,4 +313,10 @@ template {
   margin: -1px;
   opacity: 0;
   overflow: hidden;
+}
+
+.container {
+  width: 1440px;
+  max-width: 0 auto;
+  padding: 0 20px;
 }/*# sourceMappingURL=main.css.map */
